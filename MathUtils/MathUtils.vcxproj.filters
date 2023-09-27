@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Vectors">
+      <UniqueIdentifier>{f39d8c6b-583d-409f-94b9-48f8a2d8185b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Primitives">
+      <UniqueIdentifier>{0045511d-8447-4508-ac85-b8fae59c3e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Camera">
+      <UniqueIdentifier>{35af4f57-6411-4a9d-9006-83b949fd0094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="material">
+      <UniqueIdentifier>{8e8ba70b-c969-4e61-88d9-931b3d61ce70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vec.h">
+      <Filter>Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="Primitive.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="pow4Sphere.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="Ellepsiod.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="Ray.h">
+      <Filter>Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>material</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="vec.cpp">
+      <Filter>Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Primitive.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="pow4Sphere.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="Ellepsiod.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="Ray.cpp">
+      <Filter>Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>material</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
