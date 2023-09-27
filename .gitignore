@@ -43,3 +43,9 @@ JaccoTemplate/tmpl_2021-09_x64.pdb
 JaccoTemplate/.vs
 JaccoTemplate/Debug
 JaccoTemplate/VTune Profiler Results
+MathUtils/Debug/MathUtils.tlog
+MathUtils/Debug
+MathUtils/Release
+UnitTest/Debug
+UnitTest/Release
+UnitTest/x64
