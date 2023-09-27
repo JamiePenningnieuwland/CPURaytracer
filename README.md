@@ -16,26 +16,33 @@ Features:
 - hdr skybox
 - Multithreading (different options)
   
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/02e26640-176f-4093-8fc6-27a6c43cf0b1)
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/7a54b0b5-a98f-44c7-a2e1-91c8571ee72e)
+
 
 - Emmisive, Metallic, dielectric, diffuse materials + easy way to create custom materials
 - Texturing (normal maps, metallic maps and diffuse textures)
-  
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/1cdf27a0-7a16-46a6-85b4-3507fef24fc4)
+
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/3e08e002-74f8-49a2-adfb-a0012b7c1e5d)
+
 
 - 3 types of primitives (sphere, ellipsoid and pow4sphere)
 - Different options for Tone mapping which can be selected with this macro
 
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/4291fb00-2720-495b-b6cd-636c6ea9235e)
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/b7f62897-a1ce-4a92-9d95-b0ad5c06a1b2)
+
 
 here is a showcase of what it looks like
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/97b3c67a-b721-41d2-bf52-e36e686fc3fc)
+
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/9003dcd0-5589-4160-933b-ccf25c1ccfe8)
+
 
 - BVH for optimizing ray intersection checks (uses AABB) + options to choose from
 
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/f8f87cb0-471f-4da0-a16d-0fb7d0dc5a86)
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/cb6709d0-9d44-41cb-a5c2-b67743dec8b0)
+
 
 - pre coded scenes to showcase the raytracer
 
-![image](https://github.com/JamiePenningnieuwland/MyRaytracer/assets/106588989/afcfd07d-ec74-49c8-a620-5971c2769936)
+![image](https://github.com/JamiePenningnieuwland/CPURaytracer/assets/106588989/2265a62c-e1b0-4dad-80e8-88e7558cc1a4)
+
 
