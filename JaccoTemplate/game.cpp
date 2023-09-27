@@ -32,7 +32,7 @@ namespace Tmpl8
 	Renderer* myRayTracer;
 
 	//textures for primitives
-	static Sprite* earth = new Sprite(new Surface("assets/earth.jpg"), 1);
+	
 	static Sprite* moon = new Sprite(new Surface("assets/moon.jpg"), 1);
 	static Sprite* moon_normal = new Sprite(new Surface("assets/moon_normal.jpg"), 1);
 	
